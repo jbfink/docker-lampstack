@@ -1,4 +1,4 @@
-This repo contains a recipe for making a [Docker](http://docker.io) container. 
+This repo contains a recipe for making a [Docker](http://docker.io) container, with Apache, MySQL and PHP.
 To build, make sure you have Docker [installed](http://www.docker.io/gettingstarted/), clone this repo somewhere, and then run:
 ```
 docker build -t <yourname>/lampstack .
